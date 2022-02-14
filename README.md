@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @flyingdragon1050
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-flyingdragon1050/flyingdragon1050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in tv-box
+- 🌱 I’m currently learning howo input playlist
+- 💞️ I’m looking to collaborate on things that I don't know
+- 📫 How to reach me hkwsaa@yahoo.com
